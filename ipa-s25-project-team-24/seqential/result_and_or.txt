@@ -1,0 +1,4 @@
+and and or result of 10 and 5
+and_result =                    x, or_result =                    x, time =                    0
+and_result =                    0, or_result =                    x, time =                   10
+and_result =                    0, or_result =                   15, time =                   30

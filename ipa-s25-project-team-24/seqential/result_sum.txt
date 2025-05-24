@@ -1,0 +1,14 @@
+we are trying to find the sum of natural numbers
+result =                    x, memory_location =                    x time =                    0
+result =                    0, memory_location =                    x time =                   50
+result =                   10, memory_location =                    x time =                   90
+result =                   19, memory_location =                    x time =                  170
+result =                   27, memory_location =                    x time =                  250
+result =                   34, memory_location =                    x time =                  330
+result =                   40, memory_location =                    x time =                  410
+result =                   45, memory_location =                    x time =                  490
+result =                   49, memory_location =                    x time =                  570
+result =                   52, memory_location =                    x time =                  650
+result =                   54, memory_location =                    x time =                  730
+result =                   55, memory_location =                    x time =                  810
+result =                   55, memory_location =                   55 time =                  880
